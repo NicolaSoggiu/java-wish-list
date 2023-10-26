@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0711b094-584c-44ac-9d13-f32e4896671f" name="Changes" comment="">
+    <list default="true" id="0711b094-584c-44ac-9d13-f32e4896671f" name="Changes" comment="add bonus">
+      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/bonus/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/wishlist/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/wishlist/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/wishlist/Present.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/wishlist/Present.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,7 @@
     "onboarding.tips.debug.path": "C:/Users/Utente/OneDrive/Desktop/Lavoro/Experis Academy/Esercizi/java-wish-list/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.org.lessons.java.bonus.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.lessons.java.wishlist.Main" />
       <module name="java-wish-list" />
@@ -56,8 +55,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.lessons.java.bonus.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lessons.java.bonus.Main" />
+      <module name="java-wish-list" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lessons.java.bonus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.lessons.java.bonus.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -71,6 +84,19 @@
       <option name="presentableId" value="Default" />
       <updated>1698321891161</updated>
     </task>
+    <task id="LOCAL-00001" summary="add bonus">
+      <option name="closed" value="true" />
+      <created>1698326390075</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698326390075</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add bonus" />
+    <option name="LAST_COMMIT_MESSAGE" value="add bonus" />
   </component>
 </project>
